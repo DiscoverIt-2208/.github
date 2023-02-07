@@ -1,6 +1,6 @@
 <h1 align="center"> :compass: DiscoverIt :compass: </h1>
 
-still need .png for DiscoverIt Logo to live here. 
+still need .png for DiscoverIt Logo to live here in place of title above.
 
 <br>
 <br>
