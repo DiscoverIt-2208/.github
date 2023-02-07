@@ -110,74 +110,74 @@ Check out our live app here:
   <tr>
     <td>
        <a href="https://github.com/jmyacobn" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+           Github
       </a><br>
         <a href="https://www.linkedin.com/in/jennifer-yacoubian/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    LinkedIn
       </a>
     </td>
     <td>
        <a href="https://github.com/Astrid-Hecht" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+           Github
       </a><br>
         <a href="https://www.linkedin.com/in/astrid-hecht/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+     LinkedIn
       </a>
     </td>
     <td>
       <a href="https://github.com/daniabee"  rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+           Github
         </a><br>
       <a href="https://www.linkedin.com/in/dani-bagley-798463116/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+     LinkedIn
         </a>
     </td>
     <td>
       <a href="https://github.com/grainymac" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+           Github
         </a><br>
       <a href="https://www.linkedin.com/in/ianmac87/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+     LinkedIn
         </a>
     </td>
     <td>
       <a href="https://github.com/lcole37"  rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+          Github
         </a><br>
       <a href="https://www.linkedin.com/in/lucas-colwell-b3a753179/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+     LinkedIn
         </a>
     </td>
     <td>
       <a href="https://github.com/msakr21" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+           Github
         </a><br>
       <a href="https://www.linkedin.com/in/mostafa-sakr-4bb722250/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+     LinkedIn
         </a>
     </td>
     <td>
       <a href="https://github.com/ashuhleyt" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+           Github
             </a><br>
             <a href="https://www.linkedin.com/in/ashuhleyt/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn                                                         
+     LinkedIn                                                         
         </a><br>
         </td>
     <td>
        <a href="https://github.com/bontgoy" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+           Github
       </a><br>
         <a href="https://www.linkedin.com/in/tyler-keating" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+           LinkedIn
       </a>
     </td>
     <td>
        <a href="https://github.com/letakeane" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+           Github
       </a><br>
         <a href="https://www.linkedin.com/in/letakeane" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+           LinkedIn
       </a>
     </td>
   </tr>
