@@ -2,8 +2,7 @@
 
 ![Asset 4](https://user-images.githubusercontent.com/105073232/217386688-758d8d96-71ec-46cf-84ea-9de425b0dff0.png)  
 </div>
-
-
+A user can search for a city and get a big picture 'snapshot' of the notable things in that city - list of the museums, top restaurants, etc based off of criteria they define. 
 <br>
 <br>
 
@@ -68,8 +67,10 @@ we need:
 ![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro&logoColor=yellow)
 <br>
 ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL&logoColor=pink)
+<br>
+![Cypress](https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=62E4B4&labelColor=000000&color=black)
 
- 
+
 
 ### Deployment
 Check out our live app here: 
