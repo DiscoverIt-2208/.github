@@ -75,6 +75,8 @@ we need:
 ![Cypress](https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=62E4B4&labelColor=000000&color=black)
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-100000?style=for-the-badge&logo=NODE.JS&logoColor=FFFFFF&labelColor=6CC24A&color=6CC24A)
+<br>
+![HTML](https://img.shields.io/badge/HTML-100000?style=for-the-badge&logo=HTML5&logoColor=FF5733&labelColor=black&color=black)
 
 
 
