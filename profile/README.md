@@ -10,9 +10,6 @@
 here will live the general description of our application. 
 
 
-
-
-
 :earth_americas: [Learning Goals](#learning-goals)
 <br>
 :earth_americas: [Project Overview](#project-overview)
@@ -24,10 +21,6 @@ here will live the general description of our application.
 :earth_americas: [Deployment](#deployment)
 <br>
 :earth_americas: [Contributors](#contributors)
-<br>
-### Homepage 
-[Take Me Home!](https://github.com/DiscoverIt-2208)
-
 <br>
 
 ### Learning Goals
