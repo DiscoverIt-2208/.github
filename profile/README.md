@@ -43,8 +43,10 @@ what user will need to install, run from CLI to ensure they are able to run code
 <br>
 
 ### Planning
+Database Design 
+![image](https://user-images.githubusercontent.com/105073232/217670746-aa1f1e46-625a-480d-a246-a539dbb20624.png)
+<br>
 we need: 
--db screenshots
 -final miro board plan with: ALL user stories listed. 
 
 ### Tech Stack
