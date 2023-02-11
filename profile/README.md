@@ -6,8 +6,6 @@ A user can search for a city and get a big picture 'snapshot' of the notable thi
 <br>
 <br>
 
-here will live the general description of our application. 
-
 
 :earth_americas: [Learning Goals](#learning-goals)
 <br>
