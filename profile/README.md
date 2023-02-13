@@ -36,10 +36,6 @@ A user can search for a city and get a big picture 'snapshot' of the notable thi
 <br>
 [Frontend Repository](https://github.com/DiscoverIt-2208/DiscoverIt-2208-FE)
 
-### Setup/Installation Guide
-what user will need to install, run from CLI to ensure they are able to run code properly. 
-<br>
-
 ### Planning
 Database Design 
 ![image](https://user-images.githubusercontent.com/105073232/217670746-aa1f1e46-625a-480d-a246-a539dbb20624.png)
