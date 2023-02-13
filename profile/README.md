@@ -79,7 +79,7 @@ Database Design
 
 
 ### Deployment
-Check out our live app here: 
+[Check out our live app here!](https://discover-it.herokuapp.com/graphql)
 
 
 ### Contributors
