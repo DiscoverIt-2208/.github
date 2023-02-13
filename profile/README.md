@@ -43,9 +43,7 @@ what user will need to install, run from CLI to ensure they are able to run code
 ### Planning
 Database Design 
 ![image](https://user-images.githubusercontent.com/105073232/217670746-aa1f1e46-625a-480d-a246-a539dbb20624.png)
-<br>
-we need: 
--final miro board plan with: ALL user stories listed. 
+<br> 
 
 ### Tech Stack
 ![rubyonrails](https://img.shields.io/badge/Ruby-100000?style=for-the-badge&logo=rubyonrails&logoColor=cc0000&labelColor=000000&color=000000)
