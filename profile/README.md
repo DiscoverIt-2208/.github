@@ -41,6 +41,42 @@ Database Design
 ![image](https://user-images.githubusercontent.com/105073232/217670746-aa1f1e46-625a-480d-a246-a539dbb20624.png)
 <br> 
 
+### Endpoint + GraphQL JSON Contract(Queries, Mutations, etc.)
+`https://discover-it.herokuapp.com/graphql'
+#### Queries
+  * User:
+    ```
+    user(id:) {
+      id: Integer
+      name: String
+      email: String
+      password: String
+      favorites: [
+        FavoriteType
+      ]
+      created_at
+      updated_at
+    }
+    ```
+  * Favorite 
+      ```
+      favorite (id:) {
+    }
+      ```
+  * Fetch Places 
+      ```
+      places (city: String, country: String, categories: [String], page: Integer, radius: Integer) {
+        name: String
+        address: String
+        categories: [
+          String
+        ]
+        city: String
+        lat: Float
+        lon: Float
+      }
+      ```
+
 ### Tech Stack
 ![rubyonrails](https://img.shields.io/badge/Ruby-100000?style=for-the-badge&logo=rubyonrails&logoColor=cc0000&labelColor=000000&color=000000)
 <br>
