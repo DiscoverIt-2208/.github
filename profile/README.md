@@ -15,6 +15,8 @@ A user can search for a city and get a big picture 'snapshot' of the notable thi
 <br>
 :earth_americas: [Endpoints](#endpoints)
 <br>
+:earth_americas: [Queries](#queries)
+<br>
 :earth_americas: [Tech Stack](#tech-stack)
 <br>
 :earth_americas: [Deployment](#deployment)
@@ -44,7 +46,7 @@ Database Design
 <br> 
 
 ### Endpoints
-`https://discover-it.herokuapp.com/graphql'
+
 #### Queries
   * User:
     ```
