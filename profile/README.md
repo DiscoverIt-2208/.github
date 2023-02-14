@@ -68,10 +68,12 @@ Database Design
       places (city: String, country: String, categories: [String], page: Integer, radius: Integer) {
         name: String
         address: String
+        place_id: String
         categories: [
           String
         ]
         city: String
+        country: String
         lat: Float
         lon: Float
       }
