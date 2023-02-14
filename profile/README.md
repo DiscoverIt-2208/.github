@@ -13,7 +13,9 @@ A user can search for a city and get a big picture 'snapshot' of the notable thi
 <br>
 :earth_americas: [Planning](#planning)
 <br>
-:earth_americas:[Tech Stack](#tech-stack)
+:earth_americas: [Endpoints](#endpoints)
+<br>
+:earth_americas: [Tech Stack](#tech-stack)
 <br>
 :earth_americas: [Deployment](#deployment)
 <br>
@@ -41,7 +43,7 @@ Database Design
 ![image](https://user-images.githubusercontent.com/105073232/217670746-aa1f1e46-625a-480d-a246-a539dbb20624.png)
 <br> 
 
-### Endpoint + GraphQL JSON Contract(Queries, Mutations, etc.)
+### Endpoints
 `https://discover-it.herokuapp.com/graphql'
 #### Queries
   * User:
