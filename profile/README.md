@@ -83,33 +83,21 @@ Database Design
 
 ### Tech Stack
 ![rubyonrails](https://img.shields.io/badge/Ruby-100000?style=for-the-badge&logo=rubyonrails&logoColor=cc0000&labelColor=000000&color=000000)
-<br>
 ![ruby](https://img.shields.io/badge/Ruby-100000?style=for-the-badge&logo=Ruby&logoColor=cc0000&labelColor=000000&color=000000)
-<br>
 ![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
-<br>
 ![CSS3](https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=Css3&logoColor=FFFFFF&labelColor=1388BA&color=1388BA)
-<br>
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
-<br> 
+<br>
 ![ReactRouter](https://img.shields.io/badge/React_Router-100000?style=for-the-badge&logo=ReactRouter&logoColor=FFFFFF&labelColor=D31313&color=D31313)
-<br> 
 ![Heroku](https://img.shields.io/badge/heroku-000000.svg?style=for-the-badge&logo=heroku&logoColor=%23430098)
-<br>
 ![React](https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=46CCEE&labelColor=black&color=black)
-<br>
 ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-<br>
 ![Webpack](https://img.shields.io/badge/Webpack-100000?style=for-the-badge&logo=webpack&logoColor=000000&labelColor=8ED5FA&color=8ED5FA)
 <br>
 ![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro&logoColor=yellow)
-<br>
 ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL&logoColor=pink)
-<br>
 ![Cypress](https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=62E4B4&labelColor=000000&color=black)
-<br>
 ![NodeJS](https://img.shields.io/badge/node.js-100000?style=for-the-badge&logo=NODE.JS&logoColor=FFFFFF&labelColor=6CC24A&color=6CC24A)
-<br>
 ![HTML](https://img.shields.io/badge/HTML-100000?style=for-the-badge&logo=HTML5&logoColor=FF5733&labelColor=black&color=black)
 
 
