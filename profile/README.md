@@ -45,7 +45,6 @@
 ### Planning
    * [Our planning miro board](https://miro.com/app/board/uXjVPsXFTmY=/)
    * [Daily standup form](https://forms.gle/o8uT9dCMNmHPEj1n7)
-   * [Daily standup response spreadsheet](https://docs.google.com/spreadsheets/d/18v4CfHeNyNFYgr0Wm9mVCURKgc_angCz9GiCArKhiws/edit?usp=sharing)
    * [MVP Proposal](https://docs.google.com/document/d/1zh159QSWUgpQ51-qvm1RADbU4RuLf_LI1CyZz_HZR9k/edit)
 
 
