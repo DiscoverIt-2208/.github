@@ -1,6 +1,5 @@
 <div align="center"> 
-
-![Asset 4](https://user-images.githubusercontent.com/105073232/217386688-758d8d96-71ec-46cf-84ea-9de425b0dff0.png)  
+   <img src="https://user-images.githubusercontent.com/108088961/219421857-1995e6b5-9d53-496a-a2f7-91c6fccc55f5.png" width="60%" height="60%">
 </div>
 A user can search for a city and get a big picture 'snapshot' of the notable things in that city - list of the museums, top restaurants, etc based off of criteria they define. 
 <br>
