@@ -68,12 +68,33 @@ All requests use GraphQL queries and mutations at the following URL:
       updated_at
     }
     ```
-  * Favorite:
+  * User example query to get list of favorites belonging to user with id 1 and the desired fields for the favorite type:
+    ```
+    { 
+      user(id: 1) {
+        favorites{
+         placeId 
+         placeName 
+         city}
+       }
+     }
+    ```
+  * Favorite type fields (note: favorite itself cannot be directly queried, the entire list of favorites for a specific user has to be queried through said user as shown above):
       ```
-      favorite (id:) {
+      favorite {
+      id: Integer
+      user: Usertype
+      placeID: String
+      thumnbailUrl: String
+      city: String
+      country: String
+      state: String
+      address: String
+      createdAt: DateTime
+      updatedAt: DateTime
     }
       ```
-  * Fetch Places: 
+  * Fetch Places - key value pairs between the parenthesis are arguments (returns a list of places (each being a PlaceType with the fields show below in the curly brackets): 
       ```
       places (city: String, country: String, categories: [String], page: Integer, radius: Integer) {
         name: String
@@ -88,11 +109,44 @@ All requests use GraphQL queries and mutations at the following URL:
         lon: Float
       }
       ```
-      
-#### GraphQL Mutations
-   * Insert:
+      * Example query to get places in Denver with a category of tourism:
       ```
-      .
+      {places(
+                city: "Denver"
+                country: "United States"
+                categories: ["tourism"]
+                page: 0
+              ) {
+                  name
+                  address
+                  placeId
+                  categories
+                  lat
+                  lon
+                }
+      }
+      ```
+#### GraphQL Mutations
+   * Create User Favorite example query (input field is supplied with an input hash) that gives back a success or error message based on whether the place has been added successfully or if the favorite already exists):
+      ```
+      mutation CREATE_USER_FAVORITE {
+        createUserFavorite(input: {userId: 1, 
+                                  placeId: "513340fdc206bc5ec059039010feea844740f00103f9012a0f3f090200000092030e506c616e6574204669746e657373", 
+                                  placeName: "Planet Fitness", 
+                                  thumbnailUrl: "", 
+                                  city: "Olympia", 
+                                  state: "Washington",
+                                  country: "United States",
+                                  address: "Planet Fitness, 1000 Cooper Point Road Southwest, Olympia, WA 98502, United States of America"}) {success error}
+                                  }
+      ```
+      * Delete User Favorite example query (input field is supplied with an input hash) that removes a favorite):
+      ```
+      mutation DELETE_USER_FAVORITE {
+        deleteUserFavorite(input: {userId: 1, placeId: "513340fdc206bc5ec059039010feea844740f00103f9012a0f3f090200000092030e506c616e6574204669746e657373"}) 
+                                      {success}
+                                     }
+
       ```
 
 
