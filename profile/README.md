@@ -1,5 +1,6 @@
 <div align="center"> 
-   <img src="https://user-images.githubusercontent.com/108088961/219437996-b2e9a496-bbf6-40e3-bd24-935c9df9e6d6.png" width="60%" height="60%">
+   <a href="https://discoverit2208.vercel.app/">
+<img src="https://user-images.githubusercontent.com/108088961/219437996-b2e9a496-bbf6-40e3-bd24-935c9df9e6d6.png" width="60%" height="60%"></a>
 </div>
 A user can search for a city and get a big picture 'snapshot' of the notable things in that city - list of the museums, top restaurants, etc based off of criteria they define. 
 <br>
@@ -10,6 +11,8 @@ A user can search for a city and get a big picture 'snapshot' of the notable thi
 <br>
 :earth_americas: [Project Overview](#project-overview)
 <br>
+:earth_americas: [Deployment](#deployment)
+<br>
 :earth_americas: [Planning](#planning)
 <br>
 :earth_americas: [Endpoints](#endpoints)
@@ -17,8 +20,6 @@ A user can search for a city and get a big picture 'snapshot' of the notable thi
 :earth_americas: [Queries](#queries)
 <br>
 :earth_americas: [Tech Stack](#tech-stack)
-<br>
-:earth_americas: [Deployment](#deployment)
 <br>
 :earth_americas: [Contributors](#contributors)
 <br>
@@ -39,9 +40,15 @@ A user can search for a city and get a big picture 'snapshot' of the notable thi
 <br>
 [Frontend Repository](https://github.com/DiscoverIt-2208/DiscoverIt-2208-FE)
 
+### Deployment
+[Check out our live app here!](https://discoverit2208.vercel.app/)
+
 ### Planning
-Database Design 
-![image](https://user-images.githubusercontent.com/105073232/217670746-aa1f1e46-625a-480d-a246-a539dbb20624.png)
+
+[Our planning miro board](https://miro.com/app/board/uXjVPsXFTmY=/)
+[Daily standup form](https://forms.gle/o8uT9dCMNmHPEj1n7)
+[Daily standup response spreadsheet](https://docs.google.com/spreadsheets/d/18v4CfHeNyNFYgr0Wm9mVCURKgc_angCz9GiCArKhiws/edit?usp=sharing)
+[MVP Proposal](https://docs.google.com/document/d/1zh159QSWUgpQ51-qvm1RADbU4RuLf_LI1CyZz_HZR9k/edit)
 <br> 
 
 ### Endpoints
@@ -100,12 +107,6 @@ Database Design
 ![Cypress](https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=62E4B4&labelColor=000000&color=black)
 ![NodeJS](https://img.shields.io/badge/node.js-100000?style=for-the-badge&logo=NODE.JS&logoColor=FFFFFF&labelColor=6CC24A&color=6CC24A)
 ![HTML](https://img.shields.io/badge/HTML-100000?style=for-the-badge&logo=HTML5&logoColor=FF5733&labelColor=black&color=black)
-
-
-
-### Deployment
-[Check out our live app here!](https://discover-it.herokuapp.com/graphql)
-
 
 ### Contributors
 
